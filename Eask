@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "newline-dwim"
          "0.0.1"
          "Insert a newline and DWIM characters")
